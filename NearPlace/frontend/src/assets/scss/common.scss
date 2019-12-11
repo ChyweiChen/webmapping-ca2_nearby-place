@@ -1,0 +1,30 @@
+#map {
+  .leaflet-popup-content-wrapper {
+    border-radius: 2px;
+    height: 30px;
+    padding: 0 14px;
+  }
+  .leaflet-popup-content {
+    margin: 0;
+  }
+  a.leaflet-popup-close-button {
+    display: none;
+  }
+  .position, .leaflet-popup-content {
+    line-height: 30px;
+    span {
+      font-weight: bold;
+    }
+  }
+  .leaflet-routing-container  {
+    display: none;
+  }
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.best {
+  color: green;
+}

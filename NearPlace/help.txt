@@ -1,0 +1,15 @@
+分为前端后端文件夹
+
+分别进入前后端文件夹
+修改后端setting数据库地址
+
+前端:
+安装依赖环境: npm install
+运行: npm run serve
+
+后端:
+安装pipenv: pip install pipenv
+安装依赖环境: pipenv install
+进入虚拟环境: pipenv shell
+运行服务器: python manage.py runserver
+

@@ -1,0 +1,2425 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.55.1009 5e627b63",
+  "osm3s": {
+    "timestamp_osm_base": "2019-12-03T03:16:02Z",
+    "timestamp_areas_base": "2019-12-03T02:32:02Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 256880032,
+      "lat": 53.3444281,
+      "lon": -6.267547,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "33-34",
+        "addr:postcode": "D02 YP97",
+        "addr:street": "Parliament Street",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/street66Dublin/",
+        "contact:instagram": "https://www.instagram.com/street66dublin/",
+        "contact:phone": "+353 87 421 6759",
+        "contact:twitter": "https://twitter.com/st66dublin",
+        "lgbtq": "primary",
+        "name": "Street 66",
+        "old_name": "The Front Lounge / The Back Lounge",
+        "website": "https://www.street66.bar/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 280123269,
+      "lat": 53.3676758,
+      "lon": -6.2512678,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar@Tolka"
+      }
+    },
+    {
+      "type": "node",
+      "id": 491319647,
+      "lat": 53.3727558,
+      "lon": -6.2530071,
+      "tags": {
+        "addr:street": "Drumcondra Road Upper",
+        "amenity": "bar",
+        "name": "Bar@Skylon"
+      }
+    },
+    {
+      "type": "node",
+      "id": 491319669,
+      "lat": 53.377485,
+      "lon": -6.2467271,
+      "tags": {
+        "amenity": "bar",
+        "name": "Bar@Regency"
+      }
+    },
+    {
+      "type": "node",
+      "id": 503224354,
+      "lat": 53.3369586,
+      "lon": -6.2657049,
+      "tags": {
+        "addr:housenumber": "31",
+        "addr:postcode": "D02 K232",
+        "addr:street": "Wexford Street",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/thejardublin",
+        "contact:twitter": "https://twitter.com/TheJarPub",
+        "email": "reservations@thejar.ie",
+        "food": "yes",
+        "name": "The Jar",
+        "old_name": "Solas",
+        "old_name2": "Modern Green Bar",
+        "phone": "+353-1-5579688",
+        "website": "http://thejar.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 598161343,
+      "lat": 53.4022449,
+      "lon": -6.1613376,
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 629750014,
+      "lat": 53.3420131,
+      "lon": -6.2865015,
+      "tags": {
+        "amenity": "bar",
+        "level": "5",
+        "name": "The Source Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 629750018,
+      "lat": 53.3419024,
+      "lon": -6.286488,
+      "tags": {
+        "amenity": "bar",
+        "level": "7",
+        "name": "Gravity Bar",
+        "opening_hours": "Mo-Su 09:30-17:00",
+        "website": "https://www.guinness-storehouse.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 725068375,
+      "lat": 53.3496181,
+      "lon": -6.2430718,
+      "tags": {
+        "amenity": "bar",
+        "name": "Lagoona"
+      }
+    },
+    {
+      "type": "node",
+      "id": 759295279,
+      "lat": 53.3492828,
+      "lon": -6.2480239,
+      "tags": {
+        "addr:housename": "CHQ building",
+        "amenity": "bar",
+        "name": "ely bar & brasserie",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "website": "http://www.elywinebar.ie/locations/ely-bar-brasserie/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 759299090,
+      "lat": 53.3498116,
+      "lon": -6.2527763,
+      "tags": {
+        "amenity": "bar",
+        "name": "Vacant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 768231200,
+      "lat": 53.3410955,
+      "lon": -6.2641191,
+      "tags": {
+        "addr:street": "Stephen Street Lower",
+        "amenity": "bar",
+        "name": "Bartley's Bar",
+        "opening_hours": "Mo-We Off; Th 17:00-11:30; Fr 17:00-01:00; Sa 12:00-01:00; Su Off",
+        "phone": "+353-1-478-1190",
+        "website": "https://www.the-grafton-hotel.com/bartleys.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 778690166,
+      "lat": 53.3331138,
+      "lon": -6.2647717,
+      "tags": {
+        "amenity": "bar",
+        "name": "C Central"
+      }
+    },
+    {
+      "type": "node",
+      "id": 907142997,
+      "lat": 53.342172,
+      "lon": -6.2623045,
+      "tags": {
+        "amenity": "bar",
+        "name": "Pygmalion"
+      }
+    },
+    {
+      "type": "node",
+      "id": 911195156,
+      "lat": 53.3361154,
+      "lon": -6.2655214,
+      "tags": {
+        "addr:housenumber": "87",
+        "addr:postcode": "D02 DH36",
+        "addr:street": "Camden Street Lower",
+        "amenity": "bar",
+        "cuisine": "pizza",
+        "email": "info@thecamden.ie",
+        "name": "Jimmy Rabbitte's",
+        "old_name": "Pallet Pizza",
+        "opening_hours": "Mo-We 12:00-24:00, Th-Sa 12:00-03:00, Su 12:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+353 1 536-7300",
+        "smoking": "outside",
+        "website": "http://thecamden.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1146292428,
+      "lat": 53.3412997,
+      "lon": -6.2653194,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "2",
+        "addr:street": "Aungier Street",
+        "amenity": "bar",
+        "name": "The Capitol Lounge",
+        "phone": "+353 1 4757166",
+        "website": "http://www.capitol.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1146292447,
+      "lat": 53.3402594,
+      "lon": -6.2655755,
+      "tags": {
+        "addr:housenumber": "16",
+        "addr:street": "Aungier Street",
+        "amenity": "bar",
+        "contact:twitter": "https://twitter.com/BowLaneSocial",
+        "email": "book@bowlane.ie",
+        "name": "Bow Lane",
+        "old_name": "Whitefriar Grill",
+        "outdoor_seating": "no",
+        "phone": "+353-1-4789489",
+        "smoking": "no",
+        "website": "http://www.bowlane.ie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1223267149,
+      "lat": 53.3433861,
+      "lon": -6.2388784,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "1",
+        "addr:street": "Grand Canal Square",
+        "amenity": "bar",
+        "cuisine": "tapas;mediterranean",
+        "email": "info@cafeh.ie",
+        "name": "Cafe Bar H",
+        "opening_hours": "Mo-Sa 12:00-01:00; Su 17:00-01:00",
+        "phone": "01 8992216",
+        "website": "http://www.cafeh.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1326745943,
+      "lat": 53.3374044,
+      "lon": -6.2634682,
+      "tags": {
+        "amenity": "bar",
+        "name": "Magic Glasses"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1326745948,
+      "lat": 53.3408345,
+      "lon": -6.2681589,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:street": "Golden Lane",
+        "amenity": "bar",
+        "name": "Sure Bar",
+        "opening_hours": "Mo-Th 09:30-23:30, Fr-Sa 09:30-00:30, Su 11:00-23:00",
+        "phone": "+353 1 8982900"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1348370992,
+      "lat": 53.3523303,
+      "lon": -6.2610205,
+      "tags": {
+        "addr:street": "O'Connell Street Upper",
+        "amenity": "bar",
+        "name": "Murrays",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1348371058,
+      "lat": 53.3465537,
+      "lon": -6.2588386,
+      "tags": {
+        "addr:housenumber": "22-25",
+        "addr:street": "D'Olier Street",
+        "amenity": "bar",
+        "brewery": "carlsberg;guinness;heineken",
+        "contact:facebook": "https://www.facebook.com/Pillarbardublin/",
+        "contact:instagram": "https://www.instagram.com/pillarbardublin/?hl=en",
+        "name": "Pillar Bar",
+        "old_name": "Lafayette",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1403120911,
+      "lat": 53.3418781,
+      "lon": -6.2626471,
+      "tags": {
+        "addr:housenumber": "52",
+        "addr:street": "William Street South",
+        "amenity": "bar",
+        "name": "The South William",
+        "website": "http://www.southwilliam.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1711807593,
+      "lat": 53.3487544,
+      "lon": -6.2285572,
+      "tags": {
+        "amenity": "bar",
+        "name": "Hemidemisemiquaver Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2027725697,
+      "lat": 53.3479699,
+      "lon": -6.2624624,
+      "tags": {
+        "amenity": "bar",
+        "name": "Adelphi",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2127757454,
+      "lat": 53.3387556,
+      "lon": -6.2526088,
+      "tags": {
+        "amenity": "bar",
+        "food": "yes",
+        "name": "Cellar Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2365544967,
+      "lat": 53.348862,
+      "lon": -6.2785235,
+      "tags": {
+        "amenity": "bar",
+        "name": "Oscars Smithfield",
+        "outdoor_seating": "yes",
+        "website": "http://www.oscarssmithfield.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2573726983,
+      "lat": 53.3574023,
+      "lon": -6.2641644,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:street": "Dorset Street Upper",
+        "amenity": "bar",
+        "food": "yes",
+        "name": "Eccles Townhouse",
+        "note": "Cafe bar deli",
+        "old_name": "Aurora",
+        "shop": "deli"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2612014313,
+      "lat": 53.3416494,
+      "lon": -6.3568639,
+      "tags": {
+        "amenity": "bar",
+        "name": "Tim Young's"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2940313238,
+      "lat": 53.3430838,
+      "lon": -6.2641396,
+      "tags": {
+        "addr:housename": "Central Hotel",
+        "addr:street": "Exchequer Street",
+        "amenity": "bar",
+        "name": "The Library Bar",
+        "opening_hours": "Mo-Fr 08:30-19:30, Sa 10:00-18:30, Su 12:00-17:30",
+        "operator": "Central Hotel",
+        "outdoor_seating": "no",
+        "phone": "+353-1-6719765",
+        "smoking": "no",
+        "website": "https://www.centralhoteldublin.com/library-bar.html"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2980368136,
+      "lat": 53.3359048,
+      "lon": -6.2650316,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "9",
+        "addr:street": "Camden Street Lower",
+        "amenity": "bar",
+        "food": "yes",
+        "name": "Camden Bites & Brews",
+        "old_name": "Great Deals",
+        "old_name:2017": "DeSelby's",
+        "old_name:2018": "Kamden"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2997549697,
+      "lat": 53.3422564,
+      "lon": -6.2643631,
+      "tags": {
+        "addr:housenumber": "25",
+        "addr:street": "George's Street Great South",
+        "amenity": "bar",
+        "brewery": "various",
+        "contact:facebook": "https://www.facebook.com/The-Chelsea-Drugstore-1591948204357064/",
+        "contact:instagram": "http://www.instagram.com/thechelseadrugstore",
+        "contact:twitter": "https://twitter.com/ChelDrugStorDub",
+        "email": "hello@thechelseadrugstore.ie",
+        "name": "Chelsea Drugstore",
+        "opening_hours": "Mo-We 16:00-24:00, Th-Su 16:00+",
+        "operator": "The Market Bar",
+        "outdoor_seating": "no",
+        "phone": "+353-1-6139093",
+        "website": "http://thechelseadrugstore.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2998757813,
+      "lat": 53.3359626,
+      "lon": -6.2650767,
+      "tags": {
+        "addr:housenumber": "8",
+        "addr:street": "Camden Street Lower",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/huckleberrydublin/",
+        "food": "yes",
+        "name": "Huck's",
+        "old_name": "Eventbrite",
+        "old_name:2017": "Huckleberrys"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3005525288,
+      "lat": 53.3472913,
+      "lon": -6.2609008,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "24",
+        "addr:street": "Bachelors Walk",
+        "amenity": "bar",
+        "name": "Arlington Bar & Restaurant",
+        "website": "https://www.arlington.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3042292872,
+      "lat": 53.334817,
+      "lon": -6.2575719,
+      "tags": {
+        "amenity": "bar",
+        "name": "Alfie Byrnes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3130376927,
+      "lat": 53.340163,
+      "lon": -6.2589217,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "2-4",
+        "addr:street": "Joshua Lane",
+        "amenity": "bar",
+        "name": "La Ruelle",
+        "opening_hours": "We-Sa 17:00-00:00",
+        "website": "http://www.laruelle.ie"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3163587327,
+      "lat": 53.3448626,
+      "lon": -6.2575823,
+      "tags": {
+        "access": "private",
+        "amenity": "bar",
+        "name": "Senior Common Room",
+        "name:ga": "An Seomra Cuibhrinn Sinsearach"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3315487523,
+      "lat": 53.3441347,
+      "lon": -6.2697764,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "16-18",
+        "addr:street": "Fishamble Street",
+        "amenity": "bar",
+        "name": "Oscars Christchurch",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.oscarschristchurch.com/",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3466369334,
+      "lat": 53.3437169,
+      "lon": -6.2642961,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "4",
+        "addr:postcode": "D02 NR59",
+        "addr:street": "George's Street Great South",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/J.T.Pims",
+        "contact:twitter": "https://twitter.com/JTPims",
+        "email": "hello@jtpims.ie",
+        "name": "J.T. Pims",
+        "opening_hours": "Mo-Th 12:00-23:30, Fr-Sa 12:00-01:00, Su 12:00-23:00",
+        "phone": "+353 1 6724645",
+        "website": "http://www.jtpims.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3676943504,
+      "lat": 53.3440595,
+      "lon": -6.2640981,
+      "tags": {
+        "addr:street": "Dame Street",
+        "amenity": "bar",
+        "name": "Hely's Bar",
+        "old_name": "Le Petit Parisien"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3677094036,
+      "lat": 53.3513612,
+      "lon": -6.2494796,
+      "tags": {
+        "addr:housename": "Connolly Station",
+        "addr:postcode": "D01 V6V6",
+        "addr:street": "Amiens Street",
+        "amenity": "bar",
+        "layer": "-1",
+        "name": "The Vaults"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3803973848,
+      "lat": 53.3470317,
+      "lon": -6.2376973,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housename": "MV Cill Airne",
+        "addr:street": "North Wall Quay",
+        "amenity": "bar",
+        "email": "quay16@mvcillairne.com",
+        "name": "White Bar",
+        "phone": "+353 1 8178760",
+        "website": "https://www.mvcillairne.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4021198488,
+      "lat": 53.3819717,
+      "lon": -6.2917626,
+      "tags": {
+        "amenity": "bar",
+        "name": "Premier Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4078397589,
+      "lat": 53.345308,
+      "lon": -6.2671118,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "5",
+        "addr:street": "Wellington Quay",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/theliquorroomsdublin",
+        "contact:twitter": "https://twitter.com/TheLiquorRooms",
+        "email": "hello@theliquorrooms.com",
+        "name": "The Liquor Rooms",
+        "opening_hours": "Mo-Su 17:00+",
+        "phone": "+353 87 3393688"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4121545304,
+      "lat": 53.3399687,
+      "lon": -6.2231801,
+      "tags": {
+        "addr:city": "Irishtown",
+        "addr:housenumber": "60",
+        "addr:postcode": "Dublin 4",
+        "addr:street": "Irishtown Road",
+        "amenity": "bar",
+        "name": "The Irishtown House"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4223248090,
+      "lat": 53.356763,
+      "lon": -6.263144,
+      "tags": {
+        "addr:street": "Hardwicke Street",
+        "amenity": "bar",
+        "name": "Pat Hanway"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4249403390,
+      "lat": 53.3340014,
+      "lon": -6.2551574,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "27",
+        "addr:street": "Leeson Street Lower",
+        "amenity": "bar",
+        "email": "welcome@housedublin.ie",
+        "name": "House Dublin",
+        "opening_hours": "Mo-We 10:00-24:00, Th-Fr 10:00-03:00, Sa 16:00-3:00",
+        "phone": "+353 1 9059090",
+        "website": "https://www.housedublin.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4329853451,
+      "lat": 53.3322511,
+      "lon": -6.2412802,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "27-29",
+        "addr:postal_district": "D04",
+        "addr:street": "Pembroke Road",
+        "amenity": "bar",
+        "name": "Den Bar",
+        "operator": "Lansdowne Hotel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4335376693,
+      "lat": 53.3433119,
+      "lon": -6.2733853,
+      "tags": {
+        "addr:street": "High Street",
+        "amenity": "bar",
+        "brewery": "various",
+        "name": "The Beer Market",
+        "outdoor_seating": "yes",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4357798892,
+      "lat": 53.3309476,
+      "lon": -6.259287,
+      "tags": {
+        "amenity": "bar",
+        "name": "Charlemont Bar & Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4383657305,
+      "lat": 53.3450767,
+      "lon": -6.2629605,
+      "tags": {
+        "alt_name": "VCC",
+        "amenity": "bar",
+        "name": "Vintage Cocktail Club",
+        "name:en": "Vintage Cocktail Club",
+        "website": "https://vintagecocktailclub.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4396351895,
+      "lat": 53.337863,
+      "lon": -6.2527928,
+      "tags": {
+        "addr:housenumber": "143",
+        "addr:street": "Baggot Street Lower",
+        "amenity": "bar",
+        "food": "yes",
+        "min_age": "23",
+        "name": "Xico",
+        "opening_hours": "Mo-Sa 17:00-03:00; Su Off",
+        "phone": "+353-1-661-8829",
+        "website": "https://xico.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4494351189,
+      "lat": 53.3362221,
+      "lon": -6.2366936,
+      "tags": {
+        "addr:street": "haddington Road",
+        "amenity": "bar",
+        "name": "café Ballsbridge",
+        "name:en": "café Ballsbridge"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4806183922,
+      "lat": 53.3362743,
+      "lon": -6.2485692,
+      "tags": {
+        "amenity": "bar",
+        "name": "Olive Green",
+        "name:en": "Olive Green"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4816023437,
+      "lat": 53.3411842,
+      "lon": -6.2596097,
+      "tags": {
+        "amenity": "bar",
+        "cuisine": "fish;burger;american",
+        "name": "The Gotham Cafe",
+        "name:en": "The Gotham Cafe"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4883290094,
+      "lat": 53.3459878,
+      "lon": -6.2553324,
+      "tags": {
+        "addr:housenumber": "33",
+        "addr:street": "Tara Street",
+        "amenity": "bar",
+        "name": "Ruin Bar",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "smoking": "isolated"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4998192522,
+      "lat": 53.3480043,
+      "lon": -6.2621526,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "54",
+        "addr:street": "Middle Abbey Street",
+        "amenity": "bar",
+        "email": "info@wigwamdublin.com",
+        "food": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Wigwam",
+        "opening_hours": "Mo-Su 11:00-03:00",
+        "phone": "(01) 873 4020",
+        "website": "https://wigwamdublin.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044580221,
+      "lat": 53.3491745,
+      "lon": -6.244184,
+      "tags": {
+        "amenity": "bar",
+        "name": "Drunken Fish",
+        "name:en": "Drunken Fish"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044959521,
+      "lat": 53.3432314,
+      "lon": -6.2869606,
+      "tags": {
+        "amenity": "bar",
+        "name": "Open Gate Brewery",
+        "name:en": "Open Gate Brewery"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5073432440,
+      "lat": 53.3491172,
+      "lon": -6.2480644,
+      "tags": {
+        "addr:housename": "Vault C, The chq Building",
+        "amenity": "bar",
+        "name": "Urban Brewing",
+        "outdoor_seating": "yes",
+        "phone": "+353 1 568 5989",
+        "website": "https://www.urbanbrewing.ie/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5155648422,
+      "lat": 53.3420522,
+      "lon": -6.2640363,
+      "tags": {
+        "addr:housenumber": "14A",
+        "addr:street": "Fade Street",
+        "amenity": "bar",
+        "name": "Market Bar",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5166614627,
+      "lat": 53.3392353,
+      "lon": -6.2561461,
+      "tags": {
+        "addr:housename": "Shelbourne Hotel",
+        "addr:street": "St. Stephen's Green",
+        "amenity": "bar",
+        "name": "The Saddle Room"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5209264343,
+      "lat": 53.3523379,
+      "lon": -6.2603868,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Living Room"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5245064896,
+      "lat": 53.3223753,
+      "lon": -6.2658072,
+      "tags": {
+        "addr:housename": "Stella Theatre",
+        "addr:housenumber": "207-209",
+        "addr:street": "Rathmines Road Lower",
+        "amenity": "bar",
+        "name": "Stella Cocktail Club",
+        "operator": "Press Up Entertainment Group",
+        "smoking": "outside",
+        "website": "https://stellatheatre.ie/stella-cocktail-club/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5362108727,
+      "lat": 53.3414251,
+      "lon": -6.2661411,
+      "tags": {
+        "addr:housenumber": "15",
+        "addr:street": "Stephen Street Upper",
+        "amenity": "bar",
+        "name": "The Snug Bar",
+        "website": "https://www.jar.ie/bar/dublin/dublin-2/the-snug"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5367355656,
+      "lat": 53.3462652,
+      "lon": -6.2615136,
+      "tags": {
+        "addr:street": "Aston Quay",
+        "amenity": "bar",
+        "name": "r.i.o.t."
+      }
+    },
+    {
+      "type": "node",
+      "id": 5590594966,
+      "lat": 53.3496315,
+      "lon": -6.2786626,
+      "tags": {
+        "addr:city": "Dublin 7",
+        "addr:postcode": "D07 RF2Y",
+        "addr:street": "Smithfield Terrace",
+        "amenity": "bar",
+        "brewery": "yes;various;guinness;spirits;wine;cocktails",
+        "description": "Whether it’s a cold pint before you hit the town or a cappuccino in the evening after a busy day in the office, you will be sure to find what you need in our bar at Maldron Hotel Smithfield. ",
+        "email": "info.smithfield@maldronhotels.com",
+        "name": "Grain & Grill Bar",
+        "opening_hours": "Mo-Su 17:00-23:30",
+        "phone": "+353(0) 1 485 0900"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5590642309,
+      "lat": 53.3435319,
+      "lon": -6.2436233,
+      "tags": {
+        "addr:city": "Dublin 2",
+        "addr:postcode": "D02 RK37",
+        "addr:street": "Pearse Street",
+        "amenity": "bar",
+        "brewery": "yes;various;guinness;wine;spirits;cocktails",
+        "email": "reservations.pearsestreet@maldronhotels.com",
+        "name": "Grain & Grill Bar",
+        "opening_hours": "Mo-Su 12:00-22:00",
+        "phone": "+353 1 670 3666"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5590669322,
+      "lat": 53.3550126,
+      "lon": -6.262401,
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:postcode": "D01 P5W9",
+        "addr:street": "Great Denmark Street",
+        "amenity": "bar",
+        "brewery": "yes;various;guinness;spirits;wine;cocktails",
+        "name": "Belvedere Bar",
+        "opening_hours": "Mo-Su 11:00-21:30"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5659490321,
+      "lat": 53.3431342,
+      "lon": -6.2639089,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Library Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5678239622,
+      "lat": 53.3419024,
+      "lon": -6.264235,
+      "tags": {
+        "addr:housenumber": "3",
+        "addr:street": "Fade Street",
+        "amenity": "bar",
+        "name": "The bar with no name"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5729185009,
+      "lat": 53.3417027,
+      "lon": -6.2627338,
+      "tags": {
+        "amenity": "bar",
+        "name": "53 South William"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5759625992,
+      "lat": 53.3381976,
+      "lon": -6.2717563,
+      "tags": {
+        "addr:housename": "Maldron Hotel",
+        "addr:street": "Kevin Street Upper",
+        "amenity": "bar",
+        "name": "Grain & Grill"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5828162186,
+      "lat": 53.3431254,
+      "lon": -6.26405,
+      "tags": {
+        "amenity": "bar",
+        "name": "The library bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5838769296,
+      "lat": 53.3410001,
+      "lon": -6.3354067,
+      "tags": {
+        "addr:city": "Ballyfermot",
+        "addr:street": "Decies Road",
+        "amenity": "bar",
+        "name": "Decies County"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6248574948,
+      "lat": 53.3966262,
+      "lon": -6.2635207,
+      "tags": {
+        "addr:street": "Shangan Road",
+        "amenity": "bar",
+        "brewery": "various",
+        "contact:facebook": "https://www.facebook.com/pg/metzo.ballymun/",
+        "name": "Metzo"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6252206585,
+      "lat": 53.3431058,
+      "lon": -6.2639983,
+      "tags": {
+        "addr:housenumber": "1",
+        "addr:street": "Exchequer Street",
+        "amenity": "bar",
+        "name": "Library Bar",
+        "phone": "+35316797302"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6255720686,
+      "lat": 53.3531259,
+      "lon": -6.2615935,
+      "tags": {
+        "amenity": "bar",
+        "name": "Groomes Bar & Bistro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6501823887,
+      "lat": 53.3453168,
+      "lon": -6.2669982,
+      "tags": {
+        "addr:housenumber": "10",
+        "addr:street": "Wellington Quay",
+        "amenity": "bar",
+        "name": "The Workman's Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6551427836,
+      "lat": 53.3405771,
+      "lon": -6.2597707,
+      "tags": {
+        "addr:street": "Anne's Lane",
+        "amenity": "bar",
+        "name": "Zozimus Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6659452185,
+      "lat": 53.3456553,
+      "lon": -6.2589016,
+      "tags": {
+        "amenity": "bar",
+        "name": "The Mint Bar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6659454386,
+      "lat": 53.3450247,
+      "lon": -6.2643912,
+      "tags": {
+        "addr:housenumber": "2",
+        "addr:street": "Temple Lane South",
+        "amenity": "bar",
+        "name": "Crowbar"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6666742585,
+      "lat": 53.3424295,
+      "lon": -6.2621681,
+      "tags": {
+        "amenity": "bar",
+        "name": "Farrier & Draper - Bar & Restaurant"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6772160819,
+      "lat": 53.3518088,
+      "lon": -6.2615785,
+      "tags": {
+        "amenity": "bar",
+        "name": "Ned Kelly's Sports Club"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984776453,
+      "lat": 53.3428675,
+      "lon": -6.2619857,
+      "tags": {
+        "amenity": "bar",
+        "level": "0",
+        "name": "Johnny Rush's",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6984962681,
+      "lat": 53.3412415,
+      "lon": -6.2633199,
+      "tags": {
+        "amenity": "bar",
+        "name": "Aussie",
+        "outdoor_seating": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 228762044,
+      "nodes": [
+        2374393178,
+        2374393182,
+        2374393183,
+        2374393179,
+        2374393180,
+        2374393177,
+        2374393175,
+        2374393176,
+        2374393178
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:country": "IE",
+        "addr:housenumber": "7-8",
+        "addr:street": "Capel Street",
+        "amenity": "bar",
+        "building": "yes",
+        "changing_table": "no",
+        "contact:phone": "+353 1 874 0710",
+        "gay": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "lgbtq": "primary",
+        "name": "Panti Bar",
+        "opening_hours": "Mo-Th 16:00-23:30; Fr-Sa 16:00-00:30; Su 16:00-23:00",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "takeaway": "no",
+        "website": "http://www.pantibar.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233791356,
+      "nodes": [
+        2421262057,
+        2421262062,
+        2421262064,
+        2421262058,
+        2421262057
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "10",
+        "addr:street": "Eden Quay",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Clifton Court Bar"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233791363,
+      "nodes": [
+        2421262058,
+        2421262059,
+        2421262060,
+        2421262065,
+        2421262066,
+        2421262064,
+        2421262058
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "11",
+        "addr:street": "Eden Quay",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Lanigan's",
+        "smoking": "outside",
+        "website": "http://www.cliftoncourthotel.ie/lanigans-bar/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 252812519,
+      "nodes": [
+        2588364406,
+        2588364408,
+        2588364409,
+        2588364410,
+        2588364406
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "155",
+        "addr:street": "Parnell Street",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "The Metro"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255386982,
+      "nodes": [
+        2610803939,
+        2610803940,
+        2610803941,
+        2610803942,
+        2610803943,
+        2610803944,
+        2610803939
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Sarsfield Racing Pigeon Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255386983,
+      "nodes": [
+        2610803945,
+        2626146587,
+        2610803948,
+        2610803949,
+        2610803945
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Ballyfermot Sports and Social Club"
+      }
+    },
+    {
+      "type": "way",
+      "id": 258651047,
+      "nodes": [
+        2639834102,
+        2639834103,
+        2639834104,
+        2639834105,
+        2639834106,
+        2883476423,
+        2639834107,
+        2639834108,
+        2639834109,
+        2639834110,
+        2639834111,
+        2639834112,
+        2639834113,
+        2883476415,
+        2883476417,
+        2883476419,
+        2883476418,
+        2883476416,
+        2639834114,
+        2639834115,
+        2639834102
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Pavilion",
+        "name:ga": "An Pailliún",
+        "opening_hours": "Mo-Sa 09:00-00:00",
+        "smoking": "outside"
+      }
+    },
+    {
+      "type": "way",
+      "id": 268700611,
+      "nodes": [
+        2740348946,
+        2740348948,
+        2740348950,
+        2740348963,
+        2740348946
+      ],
+      "tags": {
+        "addr:housenumber": "27-28",
+        "addr:street": "Dame Street",
+        "amenity": "bar",
+        "building": "commercial",
+        "building:levels": "5",
+        "name": "Mercantile",
+        "note": "DCC, Record of Protected Structures, no. 2105",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Steps inside the entrance"
+      }
+    },
+    {
+      "type": "way",
+      "id": 268836002,
+      "nodes": [
+        2741490177,
+        2741490178,
+        2741490179,
+        5112141747,
+        5112141746,
+        5112141745,
+        5112141744,
+        5112141743,
+        2741490180,
+        2741490177
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "40",
+        "addr:street": "Dawson Street",
+        "amenity": "bar",
+        "building": "yes",
+        "building:levels": "2",
+        "contact:phone": "+353-1-6774567",
+        "name": "Café en Seine",
+        "operator": "Mercantile Group",
+        "outdoor_seating": "yes",
+        "website": "https://www.cafeenseine.ie/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 268836005,
+      "nodes": [
+        2741490178,
+        2741490185,
+        2741490190,
+        2741490186,
+        5112141746,
+        5112141747,
+        2741490179,
+        2741490178
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "39",
+        "addr:street": "Dawson Street",
+        "amenity": "bar",
+        "building": "yes",
+        "contact:phone": "+353-1-6774567",
+        "name": "Café en Seine",
+        "operator": "Mercantile Group",
+        "outdoor_seating": "yes",
+        "website": "https://www.cafeenseine.ie/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 268837280,
+      "nodes": [
+        2741500692,
+        2741500695,
+        2741500696,
+        2741500697,
+        2741500692
+      ],
+      "tags": {
+        "addr:housenumber": "36",
+        "addr:street": "Dawson Street",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "commercial",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Sams Bar",
+        "operator": "Miro 2 Hotel Ltd",
+        "phone": "+353-1-6127999",
+        "website": "https://www.samsbar.ie/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 268843105,
+      "nodes": [
+        2740502674,
+        2741556713,
+        2741556714,
+        2741556715,
+        2740502669,
+        2740502674
+      ],
+      "tags": {
+        "addr:housenumber": "25",
+        "addr:street": "Dawson Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Dawson Lounge",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 281046955,
+      "nodes": [
+        2850658988,
+        2850658990,
+        2850658994,
+        2850658991,
+        2850658992,
+        2850658989,
+        2850658988
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "22",
+        "addr:street": "Ely Place",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Ely Wine Bar",
+        "phone": "+353 (01) 676 8986",
+        "website": "https://www.elywinebar.ie/",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 316971228,
+      "nodes": [
+        3231630329,
+        3231630330,
+        3231630331,
+        3231630306,
+        3231630332,
+        3231630333,
+        3231630326,
+        3231630329
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:street": "O'Connell Street Upper",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Toddy's Bar & Brasserie",
+        "note": "Building inscribed \"Established 1777 Rebuilt 1925\" on west facade.",
+        "operator": "Gresham Hotel Group Limited",
+        "year_built": "1925"
+      }
+    },
+    {
+      "type": "way",
+      "id": 405868910,
+      "nodes": [
+        4080120451,
+        4080120452,
+        4080120453,
+        4080120454,
+        4080120455,
+        4080120456,
+        4080120451
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Token"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422874523,
+      "nodes": [
+        4211558029,
+        4226006898,
+        4226006899,
+        4226006900,
+        4226006893,
+        4226006894,
+        4226006895,
+        4211558029
+      ],
+      "tags": {
+        "amenity": "bar",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 657456424,
+      "nodes": [
+        2418926288,
+        2418926262,
+        2418926266,
+        6654055511,
+        2418926272,
+        6654055515,
+        2418926276,
+        6654055522,
+        2418926282,
+        2418926303,
+        2418926295,
+        2418926292,
+        2418926290,
+        6654055510,
+        2418926288
+      ],
+      "tags": {
+        "addr:street": "Abbey Street Lower",
+        "amenity": "bar",
+        "brewery": "various",
+        "food": "yes",
+        "internet_access": "wlan",
+        "landuse": "retail",
+        "name": "The Silver Penny",
+        "opening_hours": "08:00-23:30",
+        "outdoor_seating": "yes",
+        "phone": "+353-1-8746884",
+        "website": "https://www.jdwetherspoon.com/pubs/all-pubs/republic-of-ireland/county-dublin/the-silver-penny-dublin",
+        "wheelchair": "yes",
+        "wheelchair:description": "Wheelchair access via side entrance to most if not all parts."
+      }
+    },
+    {
+      "type": "relation",
+      "id": 3375611,
+      "members": [
+        {
+          "type": "way",
+          "ref": 251580560,
+          "role": "outer"
+        },
+        {
+          "type": "way",
+          "ref": 251580563,
+          "role": "outer"
+        }
+      ],
+      "tags": {
+        "addr:city": "Dublin",
+        "addr:housenumber": "20-22",
+        "addr:street": "College Green",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "The Bank on College Green",
+        "note": "Dublin City Council, Record of Protected Structures (2010), no. 1993",
+        "old_name": "Royal Bank of Ireland",
+        "smoking": "outside",
+        "type": "multipolygon",
+        "website": "https://www.bankoncollegegreen.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2610803945,
+      "lat": 53.3419956,
+      "lon": -6.3576806
+    },
+    {
+      "type": "node",
+      "id": 2610803948,
+      "lat": 53.3416586,
+      "lon": -6.3573856
+    },
+    {
+      "type": "node",
+      "id": 2610803949,
+      "lat": 53.3419229,
+      "lon": -6.3572581
+    },
+    {
+      "type": "node",
+      "id": 2626146587,
+      "lat": 53.3417313,
+      "lon": -6.3578081
+    },
+    {
+      "type": "node",
+      "id": 2610803939,
+      "lat": 53.342731,
+      "lon": -6.3358326
+    },
+    {
+      "type": "node",
+      "id": 2610803940,
+      "lat": 53.3424932,
+      "lon": -6.3358054
+    },
+    {
+      "type": "node",
+      "id": 2610803941,
+      "lat": 53.3425033,
+      "lon": -6.3355591
+    },
+    {
+      "type": "node",
+      "id": 2610803942,
+      "lat": 53.3427142,
+      "lon": -6.3355833
+    },
+    {
+      "type": "node",
+      "id": 2610803943,
+      "lat": 53.3427118,
+      "lon": -6.3356415
+    },
+    {
+      "type": "node",
+      "id": 2610803944,
+      "lat": 53.3427387,
+      "lon": -6.3356445
+    },
+    {
+      "type": "node",
+      "id": 4211558029,
+      "lat": 53.3231462,
+      "lon": -6.2805276
+    },
+    {
+      "type": "node",
+      "id": 4226006893,
+      "lat": 53.3232644,
+      "lon": -6.2801549
+    },
+    {
+      "type": "node",
+      "id": 4226006894,
+      "lat": 53.3231989,
+      "lon": -6.2801079
+    },
+    {
+      "type": "node",
+      "id": 4226006895,
+      "lat": 53.3230876,
+      "lon": -6.280417
+    },
+    {
+      "type": "node",
+      "id": 4226006900,
+      "lat": 53.3233028,
+      "lon": -6.2800445
+    },
+    {
+      "type": "node",
+      "id": 4226006898,
+      "lat": 53.3234021,
+      "lon": -6.280133
+    },
+    {
+      "type": "node",
+      "id": 4226006899,
+      "lat": 53.3234101,
+      "lon": -6.2800875
+    },
+    {
+      "type": "node",
+      "id": 4080120451,
+      "lat": 53.3476829,
+      "lon": -6.2804079
+    },
+    {
+      "type": "node",
+      "id": 4080120452,
+      "lat": 53.3476553,
+      "lon": -6.2801262
+    },
+    {
+      "type": "node",
+      "id": 4080120453,
+      "lat": 53.3475135,
+      "lon": -6.2801651
+    },
+    {
+      "type": "node",
+      "id": 4080120454,
+      "lat": 53.3475293,
+      "lon": -6.2803273
+    },
+    {
+      "type": "node",
+      "id": 4080120455,
+      "lat": 53.3476133,
+      "lon": -6.2803044
+    },
+    {
+      "type": "node",
+      "id": 4080120456,
+      "lat": 53.347625,
+      "lon": -6.2804237
+    },
+    {
+      "type": "node",
+      "id": 2374393175,
+      "lat": 53.3465447,
+      "lon": -6.2679642
+    },
+    {
+      "type": "node",
+      "id": 2374393176,
+      "lat": 53.3465569,
+      "lon": -6.2679988
+    },
+    {
+      "type": "node",
+      "id": 2374393177,
+      "lat": 53.3466032,
+      "lon": -6.2675598
+    },
+    {
+      "type": "node",
+      "id": 2374393178,
+      "lat": 53.3466216,
+      "lon": -6.2680254
+    },
+    {
+      "type": "node",
+      "id": 2374393179,
+      "lat": 53.3466235,
+      "lon": -6.2676137
+    },
+    {
+      "type": "node",
+      "id": 2374393180,
+      "lat": 53.3466294,
+      "lon": -6.2675698
+    },
+    {
+      "type": "node",
+      "id": 2374393182,
+      "lat": 53.3466488,
+      "lon": -6.2678288
+    },
+    {
+      "type": "node",
+      "id": 2374393183,
+      "lat": 53.3466771,
+      "lon": -6.267634
+    },
+    {
+      "type": "node",
+      "id": 2740502669,
+      "lat": 53.33973,
+      "lon": -6.2588803
+    },
+    {
+      "type": "node",
+      "id": 2740502674,
+      "lat": 53.3397164,
+      "lon": -6.2588239
+    },
+    {
+      "type": "node",
+      "id": 2741490179,
+      "lat": 53.3407018,
+      "lon": -6.2587926
+    },
+    {
+      "type": "node",
+      "id": 2741490180,
+      "lat": 53.3407718,
+      "lon": -6.2587723
+    },
+    {
+      "type": "node",
+      "id": 2741490186,
+      "lat": 53.3406443,
+      "lon": -6.2588283
+    },
+    {
+      "type": "node",
+      "id": 2741490190,
+      "lat": 53.3406435,
+      "lon": -6.2588205
+    },
+    {
+      "type": "node",
+      "id": 2741500696,
+      "lat": 53.3404486,
+      "lon": -6.2589372
+    },
+    {
+      "type": "node",
+      "id": 2741500697,
+      "lat": 53.3405105,
+      "lon": -6.2589174
+    },
+    {
+      "type": "node",
+      "id": 2741556713,
+      "lat": 53.3397788,
+      "lon": -6.2588
+    },
+    {
+      "type": "node",
+      "id": 2741556714,
+      "lat": 53.3397981,
+      "lon": -6.258906
+    },
+    {
+      "type": "node",
+      "id": 2741556715,
+      "lat": 53.339745,
+      "lon": -6.2589425
+    },
+    {
+      "type": "node",
+      "id": 5112141743,
+      "lat": 53.3407494,
+      "lon": -6.2587788
+    },
+    {
+      "type": "node",
+      "id": 5112141744,
+      "lat": 53.3408198,
+      "lon": -6.2595513
+    },
+    {
+      "type": "node",
+      "id": 5112141745,
+      "lat": 53.34077,
+      "lon": -6.2595664
+    },
+    {
+      "type": "node",
+      "id": 5112141746,
+      "lat": 53.3406955,
+      "lon": -6.2588135
+    },
+    {
+      "type": "node",
+      "id": 5112141747,
+      "lat": 53.3407037,
+      "lon": -6.2588111
+    },
+    {
+      "type": "node",
+      "id": 2639834102,
+      "lat": 53.3425893,
+      "lon": -6.2530833
+    },
+    {
+      "type": "node",
+      "id": 2639834103,
+      "lat": 53.3425582,
+      "lon": -6.2528727
+    },
+    {
+      "type": "node",
+      "id": 2639834104,
+      "lat": 53.3426066,
+      "lon": -6.2528527
+    },
+    {
+      "type": "node",
+      "id": 2639834105,
+      "lat": 53.3426037,
+      "lon": -6.2528331
+    },
+    {
+      "type": "node",
+      "id": 2639834106,
+      "lat": 53.3427666,
+      "lon": -6.2527657
+    },
+    {
+      "type": "node",
+      "id": 2639834107,
+      "lat": 53.3427741,
+      "lon": -6.2528165
+    },
+    {
+      "type": "node",
+      "id": 2639834108,
+      "lat": 53.3427936,
+      "lon": -6.2528085
+    },
+    {
+      "type": "node",
+      "id": 2639834109,
+      "lat": 53.3427971,
+      "lon": -6.2528321
+    },
+    {
+      "type": "node",
+      "id": 2639834110,
+      "lat": 53.3428114,
+      "lon": -6.2528262
+    },
+    {
+      "type": "node",
+      "id": 2639834111,
+      "lat": 53.3428344,
+      "lon": -6.2529821
+    },
+    {
+      "type": "node",
+      "id": 2639834112,
+      "lat": 53.3427919,
+      "lon": -6.2529996
+    },
+    {
+      "type": "node",
+      "id": 2639834113,
+      "lat": 53.3427951,
+      "lon": -6.2530216
+    },
+    {
+      "type": "node",
+      "id": 2639834114,
+      "lat": 53.3426397,
+      "lon": -6.2530817
+    },
+    {
+      "type": "node",
+      "id": 2639834115,
+      "lat": 53.342637,
+      "lon": -6.2530636
+    },
+    {
+      "type": "node",
+      "id": 2741490177,
+      "lat": 53.3407504,
+      "lon": -6.2585656
+    },
+    {
+      "type": "node",
+      "id": 2741490178,
+      "lat": 53.3406804,
+      "lon": -6.2585859
+    },
+    {
+      "type": "node",
+      "id": 2741490185,
+      "lat": 53.340621,
+      "lon": -6.2586031
+    },
+    {
+      "type": "node",
+      "id": 2741500692,
+      "lat": 53.3404796,
+      "lon": -6.2586464
+    },
+    {
+      "type": "node",
+      "id": 2741500695,
+      "lat": 53.3404177,
+      "lon": -6.2586663
+    },
+    {
+      "type": "node",
+      "id": 2850658988,
+      "lat": 53.3378674,
+      "lon": -6.2540165
+    },
+    {
+      "type": "node",
+      "id": 2850658989,
+      "lat": 53.3379083,
+      "lon": -6.2541826
+    },
+    {
+      "type": "node",
+      "id": 2850658990,
+      "lat": 53.3379317,
+      "lon": -6.2539689
+    },
+    {
+      "type": "node",
+      "id": 2850658991,
+      "lat": 53.3379776,
+      "lon": -6.2541537
+    },
+    {
+      "type": "node",
+      "id": 2850658992,
+      "lat": 53.3379122,
+      "lon": -6.2541986
+    },
+    {
+      "type": "node",
+      "id": 2850658994,
+      "lat": 53.3379515,
+      "lon": -6.2540472
+    },
+    {
+      "type": "node",
+      "id": 2883476415,
+      "lat": 53.3427483,
+      "lon": -6.253041
+    },
+    {
+      "type": "node",
+      "id": 2883476416,
+      "lat": 53.3426755,
+      "lon": -6.2530669
+    },
+    {
+      "type": "node",
+      "id": 2883476417,
+      "lat": 53.3427415,
+      "lon": -6.2529946
+    },
+    {
+      "type": "node",
+      "id": 2883476418,
+      "lat": 53.3426692,
+      "lon": -6.2530245
+    },
+    {
+      "type": "node",
+      "id": 2883476419,
+      "lat": 53.3427081,
+      "lon": -6.2530084
+    },
+    {
+      "type": "node",
+      "id": 2883476423,
+      "lat": 53.3427712,
+      "lon": -6.2527964
+    },
+    {
+      "type": "node",
+      "id": 2577838429,
+      "lat": 53.3441247,
+      "lon": -6.2614721
+    },
+    {
+      "type": "node",
+      "id": 2577838430,
+      "lat": 53.344115,
+      "lon": -6.2614734
+    },
+    {
+      "type": "node",
+      "id": 2577838431,
+      "lat": 53.3441021,
+      "lon": -6.261468
+    },
+    {
+      "type": "node",
+      "id": 2577838432,
+      "lat": 53.3440917,
+      "lon": -6.2614626
+    },
+    {
+      "type": "node",
+      "id": 2577838433,
+      "lat": 53.3440828,
+      "lon": -6.2614451
+    },
+    {
+      "type": "node",
+      "id": 2577838434,
+      "lat": 53.3440216,
+      "lon": -6.2614168
+    },
+    {
+      "type": "node",
+      "id": 2577838439,
+      "lat": 53.3441617,
+      "lon": -6.2617027
+    },
+    {
+      "type": "node",
+      "id": 2577838442,
+      "lat": 53.3441649,
+      "lon": -6.2615705
+    },
+    {
+      "type": "node",
+      "id": 2577838443,
+      "lat": 53.3441537,
+      "lon": -6.2615597
+    },
+    {
+      "type": "node",
+      "id": 2577838444,
+      "lat": 53.3441625,
+      "lon": -6.2615422
+    },
+    {
+      "type": "node",
+      "id": 2577838445,
+      "lat": 53.3441649,
+      "lon": -6.2615206
+    },
+    {
+      "type": "node",
+      "id": 2577838446,
+      "lat": 53.3441617,
+      "lon": -6.261499
+    },
+    {
+      "type": "node",
+      "id": 2577838447,
+      "lat": 53.3441521,
+      "lon": -6.2614802
+    },
+    {
+      "type": "node",
+      "id": 2577838448,
+      "lat": 53.3441408,
+      "lon": -6.2614761
+    },
+    {
+      "type": "node",
+      "id": 2577838449,
+      "lat": 53.3441327,
+      "lon": -6.2614802
+    },
+    {
+      "type": "node",
+      "id": 2577838450,
+      "lat": 53.3439701,
+      "lon": -6.261669
+    },
+    {
+      "type": "node",
+      "id": 2577838453,
+      "lat": 53.3440339,
+      "lon": -6.2616859
+    },
+    {
+      "type": "node",
+      "id": 2740348946,
+      "lat": 53.3440805,
+      "lon": -6.2640525
+    },
+    {
+      "type": "node",
+      "id": 2740348948,
+      "lat": 53.344083,
+      "lon": -6.2638312
+    },
+    {
+      "type": "node",
+      "id": 2740348950,
+      "lat": 53.3438682,
+      "lon": -6.2638161
+    },
+    {
+      "type": "node",
+      "id": 2740348963,
+      "lat": 53.343864,
+      "lon": -6.2640352
+    },
+    {
+      "type": "node",
+      "id": 2418926262,
+      "lat": 53.3489638,
+      "lon": -6.2566936
+    },
+    {
+      "type": "node",
+      "id": 2418926266,
+      "lat": 53.348969,
+      "lon": -6.2566618
+    },
+    {
+      "type": "node",
+      "id": 2418926272,
+      "lat": 53.3490156,
+      "lon": -6.2563743
+    },
+    {
+      "type": "node",
+      "id": 2418926276,
+      "lat": 53.3490234,
+      "lon": -6.256326
+    },
+    {
+      "type": "node",
+      "id": 2418926282,
+      "lat": 53.3490527,
+      "lon": -6.2561454
+    },
+    {
+      "type": "node",
+      "id": 2418926288,
+      "lat": 53.349153,
+      "lon": -6.2567798
+    },
+    {
+      "type": "node",
+      "id": 2418926290,
+      "lat": 53.3491781,
+      "lon": -6.2567485
+    },
+    {
+      "type": "node",
+      "id": 2418926292,
+      "lat": 53.3492236,
+      "lon": -6.2564683
+    },
+    {
+      "type": "node",
+      "id": 2418926295,
+      "lat": 53.3492314,
+      "lon": -6.2564203
+    },
+    {
+      "type": "node",
+      "id": 2418926303,
+      "lat": 53.3492606,
+      "lon": -6.25624
+    },
+    {
+      "type": "node",
+      "id": 2421262057,
+      "lat": 53.3479367,
+      "lon": -6.2580131
+    },
+    {
+      "type": "node",
+      "id": 2421262058,
+      "lat": 53.3479552,
+      "lon": -6.2579281
+    },
+    {
+      "type": "node",
+      "id": 2421262059,
+      "lat": 53.3479805,
+      "lon": -6.2578131
+    },
+    {
+      "type": "node",
+      "id": 2421262060,
+      "lat": 53.3479954,
+      "lon": -6.2578223
+    },
+    {
+      "type": "node",
+      "id": 2421262062,
+      "lat": 53.3480462,
+      "lon": -6.2580705
+    },
+    {
+      "type": "node",
+      "id": 2421262064,
+      "lat": 53.348064,
+      "lon": -6.2579884
+    },
+    {
+      "type": "node",
+      "id": 2421262065,
+      "lat": 53.3480789,
+      "lon": -6.2578721
+    },
+    {
+      "type": "node",
+      "id": 2421262066,
+      "lat": 53.3480881,
+      "lon": -6.2578772
+    },
+    {
+      "type": "node",
+      "id": 6654055510,
+      "lat": 53.3491717,
+      "lon": -6.2567883
+    },
+    {
+      "type": "node",
+      "id": 6654055511,
+      "lat": 53.3489947,
+      "lon": -6.2565032
+    },
+    {
+      "type": "node",
+      "id": 6654055515,
+      "lat": 53.3490195,
+      "lon": -6.2563501
+    },
+    {
+      "type": "node",
+      "id": 6654055522,
+      "lat": 53.349047,
+      "lon": -6.2561805
+    },
+    {
+      "type": "node",
+      "id": 2588364406,
+      "lat": 53.3531994,
+      "lon": -6.2603488
+    },
+    {
+      "type": "node",
+      "id": 2588364408,
+      "lat": 53.3531639,
+      "lon": -6.2604226
+    },
+    {
+      "type": "node",
+      "id": 2588364409,
+      "lat": 53.3532481,
+      "lon": -6.2605337
+    },
+    {
+      "type": "node",
+      "id": 2588364410,
+      "lat": 53.3532833,
+      "lon": -6.2604567
+    },
+    {
+      "type": "node",
+      "id": 3231630306,
+      "lat": 53.3517861,
+      "lon": -6.2608266
+    },
+    {
+      "type": "node",
+      "id": 3231630326,
+      "lat": 53.3518946,
+      "lon": -6.2606457
+    },
+    {
+      "type": "node",
+      "id": 3231630329,
+      "lat": 53.3519582,
+      "lon": -6.2606819
+    },
+    {
+      "type": "node",
+      "id": 3231630330,
+      "lat": 53.3519182,
+      "lon": -6.2608496
+    },
+    {
+      "type": "node",
+      "id": 3231630331,
+      "lat": 53.3518878,
+      "lon": -6.2608784
+    },
+    {
+      "type": "node",
+      "id": 3231630332,
+      "lat": 53.3518138,
+      "lon": -6.2606539
+    },
+    {
+      "type": "node",
+      "id": 3231630333,
+      "lat": 53.3518914,
+      "lon": -6.2606933
+    },
+    {
+      "type": "way",
+      "id": 251580560,
+      "nodes": [
+        2577838453,
+        2577838439,
+        2577838442,
+        2577838443,
+        2577838444,
+        2577838445,
+        2577838446,
+        2577838447,
+        2577838448,
+        2577838449,
+        2577838429,
+        2577838430,
+        2577838431
+      ]
+    },
+    {
+      "type": "way",
+      "id": 251580563,
+      "nodes": [
+        2577838431,
+        2577838432,
+        2577838433,
+        2577838434,
+        2577838450,
+        2577838453
+      ]
+    }
+  ]
+}
